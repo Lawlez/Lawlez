@@ -3,6 +3,7 @@
 
 
 [![Lawlez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lawlez&hide=issues&count_private=true&show_icons=true&include_all_commits=true)](https://dev.lwlx.xyz)
+<script src="https://www.hackthebox.eu/badge/435777"></script>
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x&layout=compact)](https://dev.lwlx.xyz)-->
 
