@@ -5,6 +5,7 @@
 <img src="https://www.hackthebox.eu/badge/image/435777" alt="lwlx on Hack The Box" height=""/></a> 
 
 [![Lawlez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lawlez&theme=transparent&count_private=true&show_icons=true&include_all_commits=true)](https://dev.lwlx.xyz)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawlez&theme=transparent&layout=compact&langs_count=8&hide=html,css)](https://dev.lwlx.xyz)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lawlez&theme=transparent&hide_border=false)<br/>
 
 
 <!--[![Coding Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x&layout=compact&theme=dark&height=20)](https://dev.lwlx.xyz)-->
